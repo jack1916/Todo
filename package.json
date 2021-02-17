@@ -1,0 +1,28 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Simple todo web app project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackholsgrove/Todo.git"
+  },
+  "keywords": [
+    "Todo",
+    "MERN",
+    "REST"
+  ],
+  "author": "Jack Holsgrove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackholsgrove/Todo/issues"
+  },
+  "homepage": "https://github.com/jackholsgrove/Todo#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
